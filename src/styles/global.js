@@ -22,6 +22,10 @@ body {
   color: #FFF;
 }
 
+button {
+  cursor: pointer;
+}
+
 `;
 
 export default GlobalStyle;
